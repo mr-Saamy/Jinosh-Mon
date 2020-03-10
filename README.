@@ -1,0 +1,8 @@
+-A simple chatbot using chatterbot package
+-note: before running, make sure you have the chatterbot package installed (after installing python3.7, 3.8 is not recommended)
+	[for windows: run 'pip install chatterbot--0.8.6' in the terminal
+	 for linux(pop!_OS in my case): run 'pip3 install chatterbot' in the terminal ]
+-2 files are included: -python notebook (.ipynb) for IDEs like jupyter,visual studio,etc
+		       -python file (.py) file for running in terminal or IDLE (keep note that the bot will execute again from the start if the conversation is ended)
+-use phrase 'bye' to end conversation
+-demo of program is included (DEMO.png)
